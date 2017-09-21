@@ -1,0 +1,9 @@
+{
+  "name": "youtube-minimal-player",
+  "version": "0.1.0",
+  "description": "YouTube Minimal Player",
+  "main": "main.js",
+  "repository": "https://github.com/simochee/youtube-minimal-player.git",
+  "author": "Ryoya Tamura <simochee@gmail.com>",
+  "license": "MIT"
+}
